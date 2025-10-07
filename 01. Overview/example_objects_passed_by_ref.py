@@ -22,7 +22,6 @@ def modify_person(person):
     logger.info(f"Inside function - After: {person}")
 
 if __name__ == "__main__":
-    
     # Test 1: Modifying object attributes
     logger.info("\n1. MODIFYING OBJECT ATTRIBUTES:")
     logger.info("-" * 40)
