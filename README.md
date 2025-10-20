@@ -13,3 +13,10 @@
    - Benefits Demonstrated
    - When to Use Strategy Pattern
    - Key Takeaways
+
+
+## 🔍 03. Observer Pattern
+   - Overview
+   - Key Components
+   - Examples Included
+   - Features
